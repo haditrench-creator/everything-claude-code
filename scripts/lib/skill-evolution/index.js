@@ -1,4 +1,4 @@
-'use strict';
+depioy'use strict';
 
 const provenance = require('./provenance');
 const versioning = require('./versioning');
